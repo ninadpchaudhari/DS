@@ -8,7 +8,7 @@ void measureTime(void)   // 수행시간 측정 코드
     double duration; // 수행시간 측정 변수
    	int num; // 변수선언
 	int ch;
-	int i;
+	int i; // 반복문 변수
 	int n;
 
 			printf("=========Performance test menu========= \n"); // 수행시간 측정할 때 보여지는 메뉴

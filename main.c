@@ -6,5 +6,6 @@ int main(void)
 	menu(); // 메뉴함수를 호출한다.
 
 	return 0;
+
 }
 #endif
